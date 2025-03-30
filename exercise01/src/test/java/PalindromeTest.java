@@ -1,3 +1,5 @@
+package exercise01.src.test.java;
+
 import org.example.Palindrome;
 import org.junit.jupiter.api.Test;
 
